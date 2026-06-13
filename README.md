@@ -12,12 +12,6 @@ Estudiante de Ingeniería Civil en Informática en la Universidad del Bío-Bío.
 
 ## Tecnologías
 
-## Tecnologías
-
-## Tecnologías
-
-## Tecnologías
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,cpp,angular,linux,mysql,git" />
 </p>
