@@ -1,16 +1,29 @@
-## Hi there 👋
+# Holaaaaa
 
-<!--
-**cigarrilloelectrico/cigarrilloelectrico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Paola Vargas.
 
-Here are some ideas to get you started:
+Estudiante de Ingeniería Civil en Informática en la Universidad del Bío-Bío.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí
+
+- Interesada en desarrollo de software
+- Bases de datos y análisis de datos
+- Desarrollo web
+
+## Tecnologías
+
+- C++
+- Python
+- Java
+- SQL
+- Angular
+- Linux
+
+## Proyectos Destacados
+
+### Catálogo Librería Olímpica
+Sistema web desarrollado con Angular.
+
+## Contacto
+
+📍 Concepción, Chile
