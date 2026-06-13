@@ -26,4 +26,4 @@ Sistema web desarrollado con Angular.
 
 ## Contacto
 
-📍 Concepción, Chile
+Concepción, Chile
