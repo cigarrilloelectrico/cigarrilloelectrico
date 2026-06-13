@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.jpg" width="900">
+</p>
 # Holaaaaa
 
 Soy Paola Vargas.
