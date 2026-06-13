@@ -1,6 +1,8 @@
 # Holaaaaa
 
 Soy Paola Vargas.
+<img width="564" height="564" alt="image" src="https://github.com/user-attachments/assets/8cb7cc8e-4b86-42d4-95b6-3179e4e143ba" />
+
 
 Estudiante de Ingeniería Civil en Informática en la Universidad del Bío-Bío.
 
